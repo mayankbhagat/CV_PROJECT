@@ -1,5 +1,5 @@
-﻿# Radiohelp
-# 🩺 Radiohelp – AI-Powered Chest X-ray Analysis System
+﻿# Cliniscan
+# 🩺 Cliniscan – AI-Powered Chest X-ray Analysis System
 
 CliniScan is an end-to-end deep learning system for **automated chest X-ray analysis**, combining:
 
